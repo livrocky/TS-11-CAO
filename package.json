@@ -2,7 +2,6 @@
   "name": "ts-11-cao",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config webpack.config.prod.js",
